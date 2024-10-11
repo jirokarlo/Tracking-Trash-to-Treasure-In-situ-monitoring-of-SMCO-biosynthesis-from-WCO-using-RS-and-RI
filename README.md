@@ -1,0 +1,1 @@
+Raman Spectroscopy and Imaging data used for analysis for the research article titled "Tracking Trash to Treasure: In situ monitoring of Single Microbial Cell Oil biosynthesis from Waste Cooking Oil using Raman Spectroscopy and Imaging".
